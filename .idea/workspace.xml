@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb785181-8fd6-4f6c-a2c0-b5d3d1509f2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_exercices_coding_57.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex13/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ex12.Main">
+  <component name="RunManager" selected="Application.ex14.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex10.Main" />
       <module name="java_exercices_coding_57" />
@@ -87,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex3.Main" />
+    <configuration name="ex13.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex13.Main" />
       <module name="java_exercices_coding_57" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex3.*" />
+          <option name="PATTERN" value="ex13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Main" />
+    <configuration name="ex14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex14.Main" />
       <module name="java_exercices_coding_57" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="ex14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex14.Main" />
+        <item itemvalue="Application.ex13.Main" />
         <item itemvalue="Application.ex12.Main" />
         <item itemvalue="Application.ex11.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.test.Main" />
-        <item itemvalue="Application.ex3.Main" />
       </list>
     </recent_temporary>
   </component>
